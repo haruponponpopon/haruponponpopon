@@ -1,5 +1,5 @@
 # 東京大学工学部電子情報工学科3年
-言語 C/C++/Python/Swift/Swift/SQL/Verilog  
+言語 C/C++/Python/Swift/SQL/Verilog  
 CPU作ったりアプリ作ったりAtCoder出るのが趣味  
 10月　応用情報技術者試験　受験予定
 <!---
