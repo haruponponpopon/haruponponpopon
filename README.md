@@ -5,8 +5,10 @@ CPU作ったりアプリ作ったりAtCoder出るのが趣味
 10月　応用情報技術者試験　受験予定
 
 # 作品 クイックサーチ
-Swift
+### Swift  
 [アクションゲーム](https://github.com/haruponponpopon/BalloonPanicNew)  
-C言語  
+### C言語  
 [DFTを用いた救急車のサイレン再現](https://github.com/haruponponpopon/3S-experiment/tree/doppler)  
+### C++  
+[電卓](https://github.com/haruponponpopon/STEP/tree/week3)  
 
