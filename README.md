@@ -6,9 +6,7 @@ CPU作ったりアプリ作ったりAtCoder出るのが趣味
 
 # 作品 クイックサーチ
 Swift
-[アクションゲーム](https://github.com/haruponponpopon/BalloonPanicNew)
+[アクションゲーム](https://github.com/haruponponpopon/BalloonPanicNew)  
+C言語  
+[DFTを用いた救急車のサイレン再現](https://github.com/haruponponpopon/3S-experiment/tree/doppler)  
 
-<!---
-haruponponpopon/haruponponpopon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
