@@ -5,6 +5,7 @@ CPU作成経験/iOSアプリ開発/Webアプリ開発/AtCoder茶色
 10月　応用情報技術者試験　受験予定
 
 # 作品 クイックサーチ
+### Javascript
 ### Swift  
 [アクションゲーム](https://github.com/haruponponpopon/BalloonPanicNew)  
 ### C言語  
