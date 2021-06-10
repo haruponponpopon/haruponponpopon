@@ -1,7 +1,7 @@
 東京大学工学部電子情報工学科3年  
 言語 C/C++/Python/Go/Swift/Javascript/HTML/CSS/React/SQL/Verilog/MatLab  
 環境 VScode/Emacs/Xcode  
-CPU作成経験/iOSアプリ開発/Webアプリ開発/AtCoder茶色 
+CPU作成経験/iOSアプリ開発/Webアプリ開発/AtCoder茶色   
 10月　応用情報技術者試験　受験予定
 
 # 作品 クイックサーチ
