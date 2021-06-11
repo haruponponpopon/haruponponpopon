@@ -10,7 +10,7 @@ CPU作成経験/iOSアプリ開発/Webアプリ開発/AtCoder茶色
 ### Swift  
 [アクションゲーム](https://github.com/haruponponpopon/BalloonPanicNew)  
 ### C言語  
-[DFTを用いた救急車のサイレン再現](https://github.com/haruponponpopon/3S-experiment/tree/doppler)  
+[DFTを用いた救急車のサイレン再現](https://github.com/haruponponpopon/3S-experiment/tree/main/sound)  
 ### C++  
 [電卓](https://github.com/haruponponpopon/STEP/tree/week3)  
 ###  競プロ精進  
