@@ -5,7 +5,7 @@ CPU作成経験/iOSアプリ開発/Webアプリ開発/AtCoder緑色
 10月　応用情報技術者試験　受験予定
 
 # 作品 クイックサーチ
-### Javascript
+### Javascript/React
 [todoアプリケーション](https://github.com/haruponponpopon/codesandbox)
 ### Swift  
 [アクションゲーム](https://github.com/haruponponpopon/BalloonPanicNew)  
