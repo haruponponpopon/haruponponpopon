@@ -2,7 +2,7 @@
 
 # 作品 クイックサーチ
 ### Javascript  
-[情報可視化サイト:(https://github.com/haruponponpopon/data_visualization)
+[情報可視化サイト](https://github.com/haruponponpopon/data_visualization)
 ### Javascript/React
 [todoアプリケーション](https://github.com/haruponponpopon/codesandbox)
 ### Swift  
