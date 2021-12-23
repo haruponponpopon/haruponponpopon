@@ -1,8 +1,10 @@
 
 
 # 作品 クイックサーチ
+### C#
+[ゲームAI](https://github.com/haruponponpopon/GameAIProject)
 ### Javascript  
-[情報可視化サイト](https://github.com/haruponponpopon/data_visualization)
+[情報可視化サイト](https://github.com/haruponponpopon/dataVisualization.github.io)
 ### Javascript/React
 [todoアプリケーション](https://github.com/haruponponpopon/codesandbox)
 ### Swift  
