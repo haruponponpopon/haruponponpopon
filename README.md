@@ -1,7 +1,6 @@
 
 
-# ポートフォリオ
-[ポートフォリオサイトはこちらに移動しました](https://haruponponpopon.github.io/my_portfolio/)
+
 ## 自己紹介de AR
 2022年に開催された国内最大規模のハッカソンJPhacksにおいてスポンサー賞である[ノキア賞](https://jphacks.com/information/pitch-result-2022/)を受賞しました。  
 [Github リンク](https://github.com/jphacks/B_2209)  
